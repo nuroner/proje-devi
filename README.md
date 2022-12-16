@@ -1,1 +1,1 @@
-# proje-devi
+# proje.ödevi
